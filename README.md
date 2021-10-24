@@ -33,3 +33,7 @@ sudo ./main
 
 ## receiver.c
 This file runs in your device. It doesn't need to be changed. Just compile it for your device, and run it with root privileges. It will try to connect to the server (`main.c`) at `localhost:1237`.
+
+
+# Switching input between phone and PC
+You can switch via the numlock Enter key (keycode 96).
